@@ -1,0 +1,6 @@
+Ejemplo ListView y BDD, una App para Android
+Por Julio Alfaro @guateRikum y Alejandro Ovalle @aovalle84
+-------------------------------------
+Este proyecto muestra una forma para insertar, consultar y actualizar registros en una base de datos SQLite y también incluye código para mostrar datos en un ListView. La App se mostró en el curso Heroes Android, impartido por Cultura Android Guatemala ( http://cultura-androidgt.org/ ) en junio de 2012.
+
+El estado actual del proyecto es un prototipo funcional que muestra la funcionalidad descrita anteriormente.

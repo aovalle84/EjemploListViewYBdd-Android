@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EjemploListViewActivity!</string>
+    <string name="app_name">EjemploListView</string>
+    <string name="strAgregar">Agregar</string>
+    <string name="strGuardar">Guardar</string>
+    <string name="strCancelar">Cancelar</string>
+    <string name="strConceptoNombre">Nombre</string>
+
+</resources>
